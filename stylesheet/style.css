@@ -13,3 +13,7 @@ header nav ul li {
 	padding: 200px 0;
 	text-align: center;
 }
+.container {
+	max-width: 900px;
+	margin: 0 auto;
+}
