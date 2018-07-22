@@ -5,3 +5,11 @@ header {
 header nav ul li {
   display: inline;
 }
+
+.hero-image-section {
+	background-image: url("../images/sunset.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 200px 0;
+	text-align: center;
+}
