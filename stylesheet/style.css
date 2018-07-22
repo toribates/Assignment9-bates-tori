@@ -17,3 +17,15 @@ header nav ul li {
 	max-width: 900px;
 	margin: 0 auto;
 }
+
+.sunset {
+	width: 250px;
+	display: inline-block;
+	margin-top: 30px;
+	padding: 35px 20px;
+}
+
+.sunset img {
+	width: 250px;
+	border: 1px solid black;
+}
