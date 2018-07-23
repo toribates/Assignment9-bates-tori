@@ -33,3 +33,19 @@ header nav ul li {
 .sunset:hover {
 	box-shadow: 1px 1px 1px #333;
 }
+
+.icon {
+  animation-name: rotate;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotateX(0deg);
+  }
+  50% {
+    transform: rotateX(-180deg);
+  }
+  100% {
+    transform: rotateX(0deg);
+  }
+}
