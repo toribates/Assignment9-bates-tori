@@ -10,7 +10,7 @@ header nav ul li {
 	background-image: url("../images/sunset.jpg");
 	background-attachment: fixed;
 	background-size: cover;
-	padding: 200px 0;
+	padding: 400px 0;
 	text-align: center;
 }
 .container {
@@ -50,9 +50,12 @@ header nav ul li {
   }
 }
 
-footer {
-  position: fixed;
-}
+
 footer nav ul li {
   display: inline;
+  text-decoration: none;
 }
+footer {
+  margin: 20px;
+  padding: 10px;
+  }
