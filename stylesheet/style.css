@@ -29,3 +29,7 @@ header nav ul li {
 	width: 250px;
 	border: 1px solid black;
 }
+
+.sunset:hover {
+	box-shadow: 1px 1px 1px #333;
+}
