@@ -49,3 +49,10 @@ header nav ul li {
     transform: rotateX(0deg);
   }
 }
+
+footer {
+  position: fixed;
+}
+footer nav ul li {
+  display: inline;
+}
